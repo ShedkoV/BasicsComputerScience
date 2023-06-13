@@ -35,3 +35,4 @@ homework
 записать ответ:
 
 [Homework (практика)](./hw_practice.py)
+[Небольшая выжимка по python](./python.md)
