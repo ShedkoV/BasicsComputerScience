@@ -9,3 +9,5 @@ Content:
    - [Код практики с вебинара](./third_lesson/cw_practice.py)
 4. [Четвёртая домашняя работа](./fourth_lesson/hw_practice.py)
    - [Код практики с вебинара](./fourth_lesson/cw_practice.py)
+5. [Пятая домашняя работа](./five_lesson/hw_practice.py)
+   - [Код практики с вебинара](./five_lesson/cw_practice.py)
