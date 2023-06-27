@@ -12,4 +12,4 @@ Content:
 5. [Пятая домашняя работа](./five_lesson/hw_practice.py)
    - [Код практики с вебинара](./five_lesson/cw_practice.py)
 
-[Тест по курсу](./test.md)
+[//]: # ([Тест по курсу]&#40;./test.md&#41;)
