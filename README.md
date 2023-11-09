@@ -5,7 +5,7 @@ Content:
 
 1. [Первая домашняя работа](./hw_first_lesson/homework.md)
 
-[//]: # (2. [Вторая домашняя работа]&#40;./second_lesson/hw_questions.md&#41;)
+2. [Вторая домашняя работа](./second_lesson/hw_questions.md)
 
 [//]: # (3. [Третья домашняя работа]&#40;./third_lesson/hw_practice.py&#41;)
 
