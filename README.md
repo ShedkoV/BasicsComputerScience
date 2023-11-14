@@ -7,7 +7,7 @@ Content:
 
 2. [Вторая домашняя работа](./second_lesson/hw_questions.md)
 
-[//]: # (3. [Третья домашняя работа]&#40;./third_lesson/hw_practice.py&#41;)
+3. [Третья домашняя работа](./third_lesson/hw_practice.py)
 
 [//]: # (   - [Код практики с вебинара]&#40;./third_lesson/cw_practice.py&#41;)
 
